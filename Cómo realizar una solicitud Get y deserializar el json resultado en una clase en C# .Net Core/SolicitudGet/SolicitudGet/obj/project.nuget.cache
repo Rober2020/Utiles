@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w0mFhrAleqBj2cThEMl1VCk+Fm3R9UOIrQEobudP8Wgz5OE65FiVr91i9QL8cAy3zLsa5+hbGQ5X4f299w3iDA==",
+  "success": true,
+  "projectFilePath": "E:\\Mega\\Cortos utiles\\Cómo realizar una solicitud Get y deserializar el json resultado en una clase en C# .Net Core\\SolicitudGet\\SolicitudGet\\SolicitudGet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rrsan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+E:\Mega\Cortos utiles\Realizar una solicitud Get en Windows Forms y deserializar un Json en un DataGridView\GetJsonGrid\GetJsonGrid\bin\Debug\GetJsonGrid.exe.config
+E:\Mega\Cortos utiles\Realizar una solicitud Get en Windows Forms y deserializar un Json en un DataGridView\GetJsonGrid\GetJsonGrid\bin\Debug\GetJsonGrid.exe
+E:\Mega\Cortos utiles\Realizar una solicitud Get en Windows Forms y deserializar un Json en un DataGridView\GetJsonGrid\GetJsonGrid\bin\Debug\GetJsonGrid.pdb
+E:\Mega\Cortos utiles\Realizar una solicitud Get en Windows Forms y deserializar un Json en un DataGridView\GetJsonGrid\GetJsonGrid\obj\Debug\GetJsonGrid.csprojAssemblyReference.cache
+E:\Mega\Cortos utiles\Realizar una solicitud Get en Windows Forms y deserializar un Json en un DataGridView\GetJsonGrid\GetJsonGrid\obj\Debug\GetJsonGrid.Form1.resources
+E:\Mega\Cortos utiles\Realizar una solicitud Get en Windows Forms y deserializar un Json en un DataGridView\GetJsonGrid\GetJsonGrid\obj\Debug\GetJsonGrid.Properties.Resources.resources
+E:\Mega\Cortos utiles\Realizar una solicitud Get en Windows Forms y deserializar un Json en un DataGridView\GetJsonGrid\GetJsonGrid\obj\Debug\GetJsonGrid.csproj.GenerateResource.cache
+E:\Mega\Cortos utiles\Realizar una solicitud Get en Windows Forms y deserializar un Json en un DataGridView\GetJsonGrid\GetJsonGrid\obj\Debug\GetJsonGrid.csproj.CoreCompileInputs.cache
+E:\Mega\Cortos utiles\Realizar una solicitud Get en Windows Forms y deserializar un Json en un DataGridView\GetJsonGrid\GetJsonGrid\obj\Debug\GetJsonGrid.exe
+E:\Mega\Cortos utiles\Realizar una solicitud Get en Windows Forms y deserializar un Json en un DataGridView\GetJsonGrid\GetJsonGrid\obj\Debug\GetJsonGrid.pdb
+E:\Mega\Cortos utiles\Realizar una solicitud Get en Windows Forms y deserializar un Json en un DataGridView\GetJsonGrid\GetJsonGrid\bin\Debug\Newtonsoft.Json.dll
+E:\Mega\Cortos utiles\Realizar una solicitud Get en Windows Forms y deserializar un Json en un DataGridView\GetJsonGrid\GetJsonGrid\bin\Debug\Newtonsoft.Json.xml
+E:\Mega\Cortos utiles\Realizar una solicitud Get en Windows Forms y deserializar un Json en un DataGridView\GetJsonGrid\GetJsonGrid\obj\Debug\GetJsonGrid.csproj.CopyComplete
